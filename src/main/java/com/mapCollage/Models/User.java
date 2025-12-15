@@ -10,5 +10,6 @@ import lombok.ToString;
 public class User {
    private String name;
    private int age;
+   private String email;
    
 }
